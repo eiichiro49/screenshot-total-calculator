@@ -1,0 +1,2 @@
+# screenshot-total-calculator
+スクリーンショットの数字を自動読み取りして合計を表示するWebアプリ
